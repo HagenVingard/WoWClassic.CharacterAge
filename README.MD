@@ -14,7 +14,7 @@ The basic idea behind the addon was to help streamers and let's players to infor
 * click on the `Download ZIP` area to start downloading the project
 * open the zip file from your browsers download destination
 * copy the `CharacterAge` folder and its contents from the zip file to your `Addons` directory of your WoW Classic installation
-* if you are not shure where you installed your WoW Classic programm files have a look at your Battle.net-launcher
+* if you are not sure where you installed your WoW Classic programm files have a look at your Battle.net-launcher
 
 ## How does the addon work?
 
